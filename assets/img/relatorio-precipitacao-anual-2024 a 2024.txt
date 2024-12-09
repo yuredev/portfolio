@@ -1,0 +1,4199 @@
+﻿Município/Posto: Alagoa Grande PCO
+ano: 2024
+jan: 51
+fev: 89.8
+mar: 24
+abr: -
+mai: 3.5
+jun: -
+jul: -
+ago: -
+set: 77
+out: 33.9
+nov: 121.5
+dez: 42
+total: 442.7
+
+
+Município/Posto: Alagoa Nova PCO
+ano: 2024
+jan: -
+fev: 154
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 123.5
+nov: 85.1
+dez: 23
+total: 386.8
+
+
+Município/Posto: Alagoa Nova/Teste 2 [am] PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: 85
+out: -
+nov: -
+dez: -
+total: 85
+
+
+Município/Posto: Alagoa Nova/Teste [am] PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 25.6
+nov: 75
+dez: -
+total: 100.6
+
+
+Município/Posto: Alagoa Nova/teste app [am] PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 0
+
+
+Município/Posto: AreiaPCD
+ano: 2024
+jan: 17.2
+fev: 21.4
+mar: 28.2
+abr: 27.6
+mai: 13.2
+jun: 53.8
+jul: 32.2
+ago: 5.4
+set: 6.4
+out: 2
+nov: 1
+dez: 0.8
+total: 209.2
+
+
+Município/Posto: Areia PCO
+ano: 2024
+jan: -
+fev: -
+mar: 4.3
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 10
+nov: 198
+dez: -
+total: 212.3
+
+
+Município/Posto: BananeirasPCD
+ano: 2024
+jan: 10.8
+fev: 25.4
+mar: 52.6
+abr: 30.2
+mai: 11.6
+jun: 25
+jul: 25
+ago: 4.4
+set: 4.8
+out: 4.8
+nov: 0.4
+dez: 0.2
+total: 195.2
+
+
+Município/Posto: Bananeiras PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 66.6
+nov: 139
+dez: 3
+total: 208.6
+
+
+Município/Posto: Bananeiras/UFPBPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 25.6
+mai: 38
+jun: 27.2
+jul: 27.2
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 118
+
+
+Município/Posto: Bananeiras/Vila Maia PCO
+ano: 2024
+jan: -
+fev: 18
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 18
+
+
+Município/Posto: Borborema PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 70
+nov: -
+dez: -
+total: 70
+
+
+Município/Posto: Boa Vista PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 13.2
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 25
+nov: 200
+dez: -
+total: 238.2
+
+
+Município/Posto: Campina Grande/Campina Grande-AESA PCO
+ano: 2024
+jan: -
+fev: -
+mar: 2.9
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 2.9
+
+
+Município/Posto: Campina Grande/EMBRAPA PCO
+ano: 2024
+jan: -
+fev: -
+mar: 63.9
+abr: 4.8
+mai: 63.3
+jun: 10
+jul: -
+ago: 4.6
+set: -
+out: -
+nov: -
+dez: -
+total: 146.6
+
+
+Município/Posto: Campina Grande/EMBRAPAPCD
+ano: 2024
+jan: 11.2
+fev: 15.2
+mar: 16.6
+abr: 42.4
+mai: 26.4
+jun: 18.4
+jul: 11
+ago: 1.2
+set: 5.2
+out: 1.2
+nov: 0
+dez: 1.8
+total: 150.6
+
+
+Município/Posto: Campina Grande/INSAPCD
+ano: 2024
+jan: 3
+fev: 5
+mar: 13
+abr: 18.4
+mai: 15
+jun: 14.2
+jul: 10.6
+ago: 2
+set: 6.8
+out: 0
+nov: 0.4
+dez: 0.8
+total: 89.2
+
+
+Município/Posto: Campina Grande/MirantePCD
+ano: 2024
+jan: 7.4
+fev: 14
+mar: -
+abr: 4.2
+mai: 15.4
+jun: 21.6
+jul: 18
+ago: 1.2
+set: 8
+out: 1.2
+nov: 1
+dez: 0.8
+total: 92.8
+
+
+Município/Posto: Campina Grande/Santa Terezinha PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 71.7
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 71.7
+
+
+Município/Posto: Campina Grande/São José da Mata PCO
+ano: 2024
+jan: -
+fev: -
+mar: 17.3
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 17.3
+
+
+Município/Posto: Fagundes PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 157
+total: 157
+
+
+Município/Posto: Lagoa Seca/EMEPA PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 30
+nov: -
+dez: -
+total: 30
+
+
+Município/Posto: Lagoa SecaPCD
+ano: 2024
+jan: -
+fev: 0
+mar: -
+abr: 46.8
+mai: 26
+jun: 66.8
+jul: 38.8
+ago: 8.8
+set: 9.2
+out: 0
+nov: 0
+dez: 0.4
+total: 196.8
+
+
+Município/Posto: QueimadasPCD
+ano: 2024
+jan: 21
+fev: 7.8
+mar: 24.4
+abr: 29.6
+mai: 10.8
+jun: 20.6
+jul: 9.2
+ago: 2.4
+set: 13.2
+out: 0
+nov: 0
+dez: 0.2
+total: 139.2
+
+
+Município/Posto: Serra RedondaPCD
+ano: 2024
+jan: 18.8
+fev: 17
+mar: 13.4
+abr: 28.8
+mai: 15.2
+jun: 38.4
+jul: 15.4
+ago: 3.8
+set: 6
+out: 2
+nov: 1
+dez: 0.6
+total: 160.4
+
+
+Município/Posto: Serra Redonda PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 33.3
+nov: -
+dez: -
+total: 33.3
+
+
+Município/Posto: Algodão de Jandaíra PCO
+ano: 2024
+jan: -
+fev: -
+mar: 7.6
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: 140
+out: 155
+nov: 50
+dez: 26
+total: 378.6
+
+
+Município/Posto: Algodão de JandaíraPCD
+ano: 2024
+jan: 11.6
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 4.6
+jul: 11.2
+ago: 0.6
+set: 0.8
+out: 0
+nov: 0
+dez: 0.6
+total: 29.4
+
+
+Município/Posto: Arara PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 50
+nov: 112
+dez: -
+total: 163.2
+
+
+Município/Posto: Barra de Santa RosaPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 7.2
+jul: 6.4
+ago: 0.2
+set: 0
+out: 0
+nov: 0
+dez: 2.6
+total: 16.4
+
+
+Município/Posto: Barra de Santa Rosa PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.6
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 149.9
+nov: 99
+dez: 6
+total: 256.5
+
+
+Município/Posto: CuitéPCD
+ano: 2024
+jan: 10.2
+fev: 47
+mar: 24
+abr: 26.8
+mai: 10.6
+jun: 14.4
+jul: 2.4
+ago: 0.4
+set: 0.8
+out: 2.8
+nov: 0.2
+dez: 0.6
+total: 140.2
+
+
+Município/Posto: Nova Floresta PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 9
+nov: -
+dez: -
+total: 9
+
+
+Município/Posto: Olivedos PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 201.1
+dez: 23
+total: 224.1
+
+
+Município/Posto: PocinhosPCD
+ano: 2024
+jan: 1.6
+fev: 5.6
+mar: 7
+abr: 34.2
+mai: 11.6
+jun: 16.6
+jul: 6.8
+ago: 1.2
+set: 12.8
+out: 0.4
+nov: 0
+dez: 0.6
+total: 98.4
+
+
+Município/Posto: Pocinhos PCO
+ano: 2024
+jan: 12.3
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 12.3
+
+
+Município/Posto: Soledade/IFPBPCD
+ano: 2024
+jan: 13.4
+fev: 3
+mar: 47.2
+abr: 13.6
+mai: 5.4
+jun: 10.2
+jul: 4.8
+ago: 2.4
+set: 2.4
+out: 0
+nov: 0
+dez: 0
+total: 102.4
+
+
+Município/Posto: Araruna PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 20
+nov: 74
+dez: -
+total: 95.2
+
+
+Município/Posto: ArarunaPCD
+ano: 2024
+jan: 8
+fev: 35.4
+mar: 32.6
+abr: 56
+mai: 13
+jun: 22
+jul: 11.4
+ago: 1
+set: 0.8
+out: 6
+nov: 0.2
+dez: 1.2
+total: 187.6
+
+
+Município/Posto: Cacimba de Dentro PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 55.5
+nov: 250
+dez: -
+total: 305.5
+
+
+Município/Posto: Campo de SantanaPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 16.4
+jul: 15.2
+ago: 4.4
+set: 0.8
+out: 12.4
+nov: 0
+dez: 1.4
+total: 50.6
+
+
+Município/Posto: Casserengue/Sítio Salgado PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 25
+nov: -
+dez: -
+total: 25
+
+
+Município/Posto: SolâneaPCD
+ano: 2024
+jan: 6.2
+fev: 28.2
+mar: 31.6
+abr: 19
+mai: 15.4
+jun: 25.8
+jul: 17.2
+ago: 6
+set: 622.4
+out: 1.2
+nov: 0
+dez: 1.4
+total: 774.4
+
+
+Município/Posto: Areial PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 22.2
+nov: 152
+dez: -
+total: 174.2
+
+
+Município/Posto: Esperança PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 135
+total: 135
+
+
+Município/Posto: EsperançaPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 28.8
+mai: 14.8
+jun: 40.4
+jul: 26
+ago: 5.6
+set: 5.6
+out: 1.2
+nov: 0.2
+dez: 1.6
+total: 124.2
+
+
+Município/Posto: Esperança/São Miguel PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 146
+total: 146
+
+
+Município/Posto: Montadas PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 4
+nov: -
+dez: -
+total: 4
+
+
+Município/Posto: São Sebastião de Lagoa de Roça PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 60
+total: 60
+
+
+Município/Posto: AlagoinhaPCD
+ano: 2024
+jan: 32.4
+fev: 21.2
+mar: 20.2
+abr: 13.4
+mai: 28
+jun: 27.2
+jul: 24
+ago: 1.4
+set: 2
+out: 0
+nov: 0
+dez: 1.6
+total: 171.4
+
+
+Município/Posto: Alagoinha PCO
+ano: 2024
+jan: -
+fev: 70
+mar: 1.3
+abr: -
+mai: 4.7
+jun: -
+jul: 15.6
+ago: -
+set: 75
+out: 21
+nov: 5
+dez: 24
+total: 216.6
+
+
+Município/Posto: Araçagi PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.3
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 3
+nov: 20.9
+dez: 30
+total: 55.2
+
+
+Município/Posto: Belém PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 115
+nov: 149
+dez: 9
+total: 273
+
+
+Município/Posto: Caiçara PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 82.7
+nov: 110
+dez: 999.9
+total: 1192.6
+
+
+Município/Posto: GuarabiraPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 0
+mai: 13.6
+jun: 17.2
+jul: 28.8
+ago: 1.2
+set: 0.8
+out: 4.8
+nov: 0.2
+dez: 0.8
+total: 67.4
+
+
+Município/Posto: Mulungu PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 7
+nov: -
+dez: -
+total: 7
+
+
+Município/Posto: MulunguPCD
+ano: 2024
+jan: 5.4
+fev: 12.2
+mar: 12.8
+abr: 29.4
+mai: 18.2
+jun: 31.4
+jul: 17.6
+ago: 0.6
+set: 0.4
+out: 0.8
+nov: 0
+dez: 0
+total: 128.8
+
+
+Município/Posto: PirpiritubaPCD
+ano: 2024
+jan: 28.4
+fev: 28
+mar: 38.2
+abr: 33.6
+mai: 20.4
+jun: 25.6
+jul: 9
+ago: 7.2
+set: 2
+out: 4.4
+nov: 0
+dez: 1.8
+total: 198.6
+
+
+Município/Posto: Serra da Raiz PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 15
+nov: -
+dez: -
+total: 15
+
+
+Município/Posto: Itabaiana PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 0
+total: 0
+
+
+Município/Posto: Itabaiana/ifpbPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 11.6
+jun: 82.4
+jul: 11.6
+ago: 4.8
+set: 2.8
+out: 2
+nov: 0
+dez: 0.4
+total: 115.6
+
+
+Município/Posto: ItatubaPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 17.2
+jul: 11.2
+ago: 1.8
+set: 8
+out: 0.4
+nov: 0.4
+dez: 0
+total: 39
+
+
+Município/Posto: Itatuba PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 25
+total: 25
+
+
+Município/Posto: MogeiroPCD
+ano: 2024
+jan: 6.4
+fev: 5
+mar: 16.2
+abr: 13.8
+mai: 2.8
+jun: 24.2
+jul: 14.8
+ago: 0.2
+set: 2.4
+out: 5.2
+nov: 0
+dez: 0
+total: 91
+
+
+Município/Posto: Mogeiro PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 5
+nov: -
+dez: -
+total: 5
+
+
+Município/Posto: Riachão do BacamartePCD
+ano: 2024
+jan: 41
+fev: 16.4
+mar: 15.6
+abr: 8.8
+mai: 2.2
+jun: 3.6
+jul: 15.8
+ago: 1.6
+set: 5.2
+out: 0.4
+nov: 0.2
+dez: 0
+total: 110.8
+
+
+Município/Posto: Salgado de São Félix PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 200
+nov: -
+dez: -
+total: 200
+
+
+Município/Posto: Aroeiras PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 33.3
+nov: 156
+dez: -
+total: 189.3
+
+
+Município/Posto: Gado Bravo/Fazenda Lagoa dos Marcos PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 70
+nov: -
+dez: -
+total: 70
+
+
+Município/Posto: Gado Bravo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 17.5
+nov: -
+dez: -
+total: 17.5
+
+
+Município/Posto: NatubaPCD
+ano: 2024
+jan: 7.6
+fev: 21.6
+mar: 13.8
+abr: 15.2
+mai: 17
+jun: 43.4
+jul: 20.6
+ago: 3.4
+set: 9.6
+out: 3.6
+nov: 1.2
+dez: 0
+total: 157
+
+
+Município/Posto: UmbuzeiroPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 0
+mai: -
+jun: 70.8
+jul: 44.8
+ago: 10
+set: 4.4
+out: 3.6
+nov: 2.2
+dez: 0
+total: 135.8
+
+
+Município/Posto: Umbuzeiro PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 35.5
+nov: -
+dez: -
+total: 35.5
+
+
+Município/Posto: Amparo PCO
+ano: 2024
+jan: -
+fev: -
+mar: 2.5
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 71
+nov: 14
+dez: 28
+total: 115.5
+
+
+Município/Posto: Assunção PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 64.4
+nov: 168
+dez: 1
+total: 233.4
+
+
+Município/Posto: Congo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 300
+total: 300
+
+
+Município/Posto: Monteiro/EMBRAPA PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 6
+nov: -
+dez: -
+total: 6
+
+
+Município/Posto: MonteiroPCD
+ano: 2024
+jan: 20
+fev: 19.4
+mar: 18.4
+abr: 36.4
+mai: 7.6
+jun: 8.4
+jul: 8.4
+ago: 1.2
+set: 0.4
+out: 0
+nov: 0
+dez: 0.4
+total: 120.6
+
+
+Município/Posto: Ouro Velho PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 9
+nov: -
+dez: 1
+total: 10
+
+
+Município/Posto: Parari PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 652
+total: 652
+
+
+Município/Posto: São João do TigrePCD
+ano: 2024
+jan: 12.4
+fev: 16.8
+mar: 14.2
+abr: 34.8
+mai: -
+jun: 3
+jul: 2.6
+ago: 0
+set: 0.8
+out: 0
+nov: 0
+dez: 0
+total: 84.6
+
+
+Município/Posto: São José dos Cordeiros PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 66.6
+nov: -
+dez: 12
+total: 78.6
+
+
+Município/Posto: São Sebastião do Umbuzeiro PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 70
+total: 70
+
+
+Município/Posto: Serra BrancaPCD
+ano: 2024
+jan: 14.8
+fev: 2
+mar: 0.2
+abr: 0
+mai: 0
+jun: 0
+jul: 0
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 17
+
+
+Município/Posto: SuméPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 33.6
+mai: 43.2
+jun: 16.4
+jul: 8
+ago: 1.6
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 102.8
+
+
+Município/Posto: Sumé PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 51
+total: 51
+
+
+Município/Posto: TaperoáPCD
+ano: 2024
+jan: 7.2
+fev: 19.4
+mar: 25.6
+abr: 13.8
+mai: 6.2
+jun: 3.2
+jul: 0.6
+ago: 0.2
+set: 2
+out: 0
+nov: 0
+dez: 1
+total: 79.2
+
+
+Município/Posto: Zabelê PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 40
+nov: -
+dez: 54
+total: 94
+
+
+Município/Posto: AlcantilPCD
+ano: 2024
+jan: 5.6
+fev: 42.2
+mar: 32
+abr: 19
+mai: 15.8
+jun: 16.2
+jul: 6.4
+ago: 1
+set: 0
+out: 0.4
+nov: 0.6
+dez: 0.2
+total: 139.4
+
+
+Município/Posto: Alcantil PCO
+ano: 2024
+jan: -
+fev: 70
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 23.5
+nov: 6
+dez: 25
+total: 125.7
+
+
+Município/Posto: Barra de Santana PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 88.8
+nov: 171
+dez: 5
+total: 264.8
+
+
+Município/Posto: Barra de Santana/Bodocongó PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 10
+nov: -
+dez: -
+total: 11.2
+
+
+Município/Posto: Barra de São Miguel PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 999.9
+nov: 100
+dez: 7
+total: 1106.9
+
+
+Município/Posto: CabaceirasPCD
+ano: 2024
+jan: 17.8
+fev: 14.2
+mar: 11.6
+abr: 9
+mai: 5
+jun: 8.4
+jul: 1
+ago: 0.4
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 67.4
+
+
+Município/Posto: Cabaceiras PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 20
+nov: -
+dez: -
+total: 20
+
+
+Município/Posto: CaraúbasPCD
+ano: 2024
+jan: 20.4
+fev: 23.8
+mar: 24
+abr: 25.8
+mai: 4.8
+jun: 5
+jul: 9.4
+ago: 0.6
+set: 0
+out: 0
+nov: 0
+dez: 0.2
+total: 114
+
+
+Município/Posto: Caturité PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 75
+nov: 10
+dez: -
+total: 85
+
+
+Município/Posto: CaturitéPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 26
+mai: 25.2
+jun: 26.4
+jul: 6.8
+ago: 0
+set: 5.6
+out: 0
+nov: -
+dez: -
+total: 90
+
+
+Município/Posto: Caturité/Fazenda Campo de Emas PCO
+ano: 2024
+jan: -
+fev: 12.2
+mar: 18
+abr: 71.9
+mai: 1.2
+jun: -
+jul: -
+ago: -
+set: -
+out: 65
+nov: -
+dez: -
+total: 168.3
+
+
+Município/Posto: Santo André PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 10
+total: 10
+
+
+Município/Posto: São Domingos do Cariri PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 67
+nov: -
+dez: 100
+total: 167
+
+
+Município/Posto: São João do Cariri PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 13
+nov: -
+dez: -
+total: 13
+
+
+Município/Posto: Santa LuziaPCD
+ano: 2024
+jan: -
+fev: -
+mar: 28.4
+abr: 32
+mai: 8.8
+jun: 0.4
+jul: 0
+ago: 0
+set: 0
+out: 0
+nov: -
+dez: -
+total: 69.6
+
+
+Município/Posto: Santa Luzia PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 77.7
+nov: -
+dez: -
+total: 77.7
+
+
+Município/Posto: São José do Sabugi PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 11
+total: 11
+
+
+Município/Posto: São Mamede PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 3
+nov: -
+dez: 40
+total: 43
+
+
+Município/Posto: Várzea PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 25
+nov: 999.9
+dez: -
+total: 1024.9
+
+
+Município/Posto: BaraúnaPCD
+ano: 2024
+jan: 6
+fev: 6.4
+mar: 24.4
+abr: 17.2
+mai: 16.6
+jun: 7
+jul: 6.4
+ago: 0.2
+set: 0.8
+out: 0
+nov: 0
+dez: 0.2
+total: 85.2
+
+
+Município/Posto: Baraúna PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 2
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 77.7
+nov: 221
+dez: 4
+total: 304.7
+
+
+Município/Posto: Frei Martinho PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 168
+total: 168
+
+
+Município/Posto: JuazeirinhoPCD
+ano: 2024
+jan: 6.8
+fev: 11.8
+mar: 42.4
+abr: 17.8
+mai: 14.8
+jun: 8.4
+jul: 7
+ago: 0.4
+set: 0.8
+out: 0
+nov: 0
+dez: 0
+total: 110.2
+
+
+Município/Posto: Nova Palmeira PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 51
+total: 51
+
+
+Município/Posto: Pedra LavradaPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 7.2
+jul: 4.8
+ago: 1.2
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 13.2
+
+
+Município/Posto: PicuíPCD
+ano: 2024
+jan: 26.4
+fev: 24.4
+mar: 39.4
+abr: 16.4
+mai: 7.2
+jun: 4.8
+jul: 2
+ago: 0
+set: 0.4
+out: 0
+nov: 0
+dez: 0.6
+total: 121.6
+
+
+Município/Posto: São Vicente do Seridó/Seridó PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 11
+nov: -
+dez: 90
+total: 101
+
+
+Município/Posto: Tenório PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 2
+nov: -
+dez: -
+total: 2
+
+
+Município/Posto: Bayeux PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 61
+nov: 151
+dez: 8
+total: 220
+
+
+Município/Posto: Cabedelo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 58.2
+nov: -
+dez: -
+total: 58.2
+
+
+Município/Posto: Cabedelo/EMATER PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 1.2
+
+
+Município/Posto: João Pessoa/CEDRES PCO
+ano: 2024
+jan: -
+fev: -
+mar: 45.9
+abr: 9
+mai: 580.8
+jun: 4.5
+jul: 10.6
+ago: 2
+set: 1
+out: -
+nov: 265
+dez: 100
+total: 1018.8
+
+
+Município/Posto: João Pessoa/DFAARA PCO
+ano: 2024
+jan: -
+fev: 180.3
+mar: 34.4
+abr: 40.6
+mai: -
+jun: -
+jul: 14.8
+ago: 4
+set: -
+out: 40
+nov: 205
+dez: 150
+total: 669.1
+
+
+Município/Posto: João Pessoa/Estação CiênciaPCD
+ano: 2024
+jan: 12.2
+fev: 28.8
+mar: 22.8
+abr: 42.2
+mai: 77.8
+jun: 50.6
+jul: 20.2
+ago: 7
+set: 5
+out: 2
+nov: 0
+dez: 0
+total: 268.6
+
+
+Município/Posto: João Pessoa PCO
+ano: 2024
+jan: -
+fev: -
+mar: 2.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 2.2
+
+
+Município/Posto: João PessoaPCD
+ano: 2024
+jan: -
+fev: 37.2
+mar: 61.6
+abr: 77.6
+mai: 111.6
+jun: 104.8
+jul: 67.2
+ago: 16.8
+set: 9.6
+out: 4
+nov: 0
+dez: 0
+total: 490.4
+
+
+Município/Posto: João Pessoa/Mangabeira PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 100
+dez: 200
+total: 300
+
+
+Município/Posto: João Pessoa/Mares PCO
+ano: 2024
+jan: -
+fev: -
+mar: 501.2
+abr: 78.3
+mai: 129.1
+jun: -
+jul: -
+ago: 2779.7
+set: -
+out: -
+nov: -
+dez: -
+total: 3488.3
+
+
+Município/Posto: João Pessoa/Vila OlimpicaPCD
+ano: 2024
+jan: 17
+fev: 19.8
+mar: 24.8
+abr: 45.6
+mai: 43.4
+jun: 67.2
+jul: 37
+ago: 9
+set: 16.8
+out: 6.8
+nov: 0.6
+dez: 0.4
+total: 288.4
+
+
+Município/Posto: João Pessoa/testeee133444 PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 1.2
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 1.2
+
+
+Município/Posto: Lucena PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 0
+nov: -
+dez: -
+total: 0
+
+
+Município/Posto: LucenaPCD
+ano: 2024
+jan: 14.2
+fev: 34.8
+mar: 15.4
+abr: 105.2
+mai: 59
+jun: 52.4
+jul: 45.4
+ago: 13
+set: 14.4
+out: 2.8
+nov: 1
+dez: 0.2
+total: 357.8
+
+
+Município/Posto: Santa Rita/GargaúPCD
+ano: 2024
+jan: 24.2
+fev: 29.8
+mar: 19.6
+abr: 33.8
+mai: 42
+jun: 40.6
+jul: 29
+ago: 8.8
+set: 7.4
+out: 3.2
+nov: 0.6
+dez: 0.2
+total: 239.2
+
+
+Município/Posto: Santa Rita/PatrocínioPCD
+ano: 2024
+jan: 0
+fev: 0
+mar: 0
+abr: 0
+mai: 11.8
+jun: 54.4
+jul: 19
+ago: 8.4
+set: 9.6
+out: 2.4
+nov: 1
+dez: 1
+total: 107.6
+
+
+Município/Posto: Santa Rita PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 0
+total: 0
+
+
+Município/Posto: Santa RitaPCD
+ano: 2024
+jan: 18
+fev: 36.4
+mar: 22.4
+abr: 48.4
+mai: 30
+jun: 33.6
+jul: 26.6
+ago: 3.6
+set: 6.4
+out: 7.6
+nov: 0
+dez: 0.2
+total: 233.2
+
+
+Município/Posto: Baía da Traição PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 189.5
+nov: 95.5
+dez: 2
+total: 287
+
+
+Município/Posto: Baía da TraiçãoPCD
+ano: 2024
+jan: -
+fev: 41.2
+mar: 18
+abr: 49.6
+mai: 60.8
+jun: 59.4
+jul: 24
+ago: 10
+set: 6.2
+out: 0
+nov: 2
+dez: 0
+total: 271.2
+
+
+Município/Posto: CapimPCD
+ano: 2024
+jan: 12.8
+fev: 12.2
+mar: 11.4
+abr: 40.6
+mai: 16.8
+jun: 33.4
+jul: 26.8
+ago: 5
+set: 3
+out: 2
+nov: 1.2
+dez: 1
+total: 166.2
+
+
+Município/Posto: Cuité de Mamanguape PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 155
+nov: -
+dez: -
+total: 155
+
+
+Município/Posto: Curral de CimaPCD
+ano: 2024
+jan: 21.8
+fev: 31
+mar: 24.2
+abr: 45.6
+mai: 25
+jun: 48
+jul: 23.6
+ago: 2.4
+set: 5.2
+out: 0.8
+nov: 0
+dez: 0
+total: 227.6
+
+
+Município/Posto: ItapororocaPCD
+ano: 2024
+jan: 16.2
+fev: 27.8
+mar: 44.4
+abr: 24.4
+mai: 21.4
+jun: 38
+jul: 17.2
+ago: 1.6
+set: 2.6
+out: 2.8
+nov: 0.4
+dez: 0.6
+total: 197.4
+
+
+Município/Posto: Itapororoca PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 10
+total: 10
+
+
+Município/Posto: JacaraúPCD
+ano: 2024
+jan: 8
+fev: 17.2
+mar: 21.8
+abr: 33.6
+mai: 22.2
+jun: 33.2
+jul: 22.4
+ago: 2
+set: 3.4
+out: 2.4
+nov: 0
+dez: 0.8
+total: 167
+
+
+Município/Posto: Jacaraú PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 50
+total: 50
+
+
+Município/Posto: MamanguapePCD
+ano: 2024
+jan: 18.8
+fev: 31.2
+mar: 36.4
+abr: 38
+mai: 32
+jun: 48.4
+jul: 32.2
+ago: 10.4
+set: 8.6
+out: 14.8
+nov: 0.2
+dez: 2
+total: 273
+
+
+Município/Posto: Mataraca PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 40
+dez: -
+total: 40
+
+
+Município/Posto: Pedro Régis PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 71
+nov: -
+dez: -
+total: 71
+
+
+Município/Posto: Rio Tinto PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 22
+nov: -
+dez: -
+total: 22
+
+
+Município/Posto: Rio TintoPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 63.6
+jun: 97.2
+jul: 53.2
+ago: 20.4
+set: 4
+out: -
+nov: -
+dez: -
+total: 238.4
+
+
+Município/Posto: AlhandraPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 57.2
+jul: 30.6
+ago: 8.2
+set: 26.6
+out: 14.4
+nov: 6.2
+dez: 1.2
+total: 144.4
+
+
+Município/Posto: Alhandra PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 62.5
+nov: 12.9
+dez: 27
+total: 103.6
+
+
+Município/Posto: Caaporã PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 95
+nov: -
+dez: -
+total: 95
+
+
+Município/Posto: CaaporãPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 11.2
+mai: 0.8
+jun: 156.4
+jul: 35.6
+ago: 3.6
+set: 2
+out: 0
+nov: 0
+dez: 0.2
+total: 209.8
+
+
+Município/Posto: Conde/Açude Gramame Mamuaba PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 200
+total: 200
+
+
+Município/Posto: Conde PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 100.1
+total: 100.1
+
+
+Município/Posto: Pedras de Fogo/Campo Verde PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 90
+nov: -
+dez: -
+total: 90
+
+
+Município/Posto: Pedras de FogoPCD
+ano: 2024
+jan: 33.2
+fev: 15
+mar: 9.2
+abr: 25.8
+mai: 21.4
+jun: 53.6
+jul: 25
+ago: 3
+set: 7.2
+out: 3.6
+nov: 0.6
+dez: 0.4
+total: 198
+
+
+Município/Posto: Cruz do Espírito Santo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 15
+nov: -
+dez: -
+total: 15
+
+
+Município/Posto: PilarPCD
+ano: 2024
+jan: 27.6
+fev: 9.2
+mar: 10.4
+abr: 50.2
+mai: 9.4
+jun: 52.6
+jul: 7.4
+ago: 0.8
+set: 4.2
+out: 5.2
+nov: 0
+dez: 0.2
+total: 177.2
+
+
+Município/Posto: São José dos Ramos PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 13
+total: 13
+
+
+Município/Posto: São Miguel de Taipu PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 50
+total: 50
+
+
+Município/Posto: SapéPCD
+ano: 2024
+jan: 13
+fev: 14.8
+mar: 12.2
+abr: 52.2
+mai: 17.8
+jun: 37.8
+jul: 14.6
+ago: 2.4
+set: 5
+out: 4
+nov: 0.2
+dez: 1.4
+total: 175.4
+
+
+Município/Posto: SapéPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 13.2
+jun: 58.8
+jul: 31.2
+ago: 5.2
+set: 4.8
+out: 1.2
+nov: 0
+dez: 0.2
+total: 114.6
+
+
+Município/Posto: Sobrado PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 1.4
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 1.4
+
+
+Município/Posto: Bernardino Batista PCO
+ano: 2024
+jan: 18.8
+fev: -
+mar: 12.2
+abr: -
+mai: -
+jun: -
+jul: 10.5
+ago: -
+set: -
+out: 35.3
+nov: 151
+dez: -
+total: 227.8
+
+
+Município/Posto: Bom Jesus PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 5.2
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 10
+nov: 201
+dez: -
+total: 216.2
+
+
+Município/Posto: Cachoeira dos Índios/Balanços PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 55
+nov: 15
+dez: -
+total: 70
+
+
+Município/Posto: Cachoeira dos Índios PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 133.3
+nov: -
+dez: -
+total: 133.3
+
+
+Município/Posto: Cajazeiras/Açude Engenheiro Ávidos PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 1005.9
+nov: -
+dez: -
+total: 1005.9
+
+
+Município/Posto: Cajazeiras/Açude Lagoa do Arroz PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 96.8
+nov: 90
+dez: -
+total: 186.8
+
+
+Município/Posto: Cajazeiras PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 106.9
+nov: 115
+dez: -
+total: 221.9
+
+
+Município/Posto: CajazeirasPCD
+ano: 2024
+jan: 32.8
+fev: 39
+mar: 52.8
+abr: 9.8
+mai: 0.8
+jun: 0.6
+jul: 0.6
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 3
+total: 139.4
+
+
+Município/Posto: CajazeirasPCD
+ano: 2024
+jan: -
+fev: -
+mar: 78
+abr: 65.6
+mai: 18.8
+jun: 2.8
+jul: 5.6
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 5.6
+total: 176.4
+
+
+Município/Posto: Monte Horebe PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 5
+nov: -
+dez: -
+total: 5
+
+
+Município/Posto: Monte HorebePCD
+ano: 2024
+jan: 35.8
+fev: 46.6
+mar: 28.4
+abr: 53.8
+mai: 1.4
+jun: 6.8
+jul: 3.4
+ago: 0
+set: 0
+out: 0
+nov: 0.2
+dez: 0.8
+total: 177.2
+
+
+Município/Posto: Poço DantasPCD
+ano: 2024
+jan: 30.6
+fev: 13.8
+mar: 39.4
+abr: 23.4
+mai: 9.6
+jun: 6.2
+jul: 6.6
+ago: 0
+set: 4.4
+out: 0
+nov: 0
+dez: 2.6
+total: 136.6
+
+
+Município/Posto: Santa Helena PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 49
+nov: -
+dez: -
+total: 49
+
+
+Município/Posto: São José de Piranhas PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 2
+nov: -
+dez: -
+total: 2
+
+
+Município/Posto: Triunfo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 9
+nov: -
+dez: -
+total: 9
+
+
+Município/Posto: TriunfoPCD
+ano: 2024
+jan: 11.8
+fev: 12.8
+mar: 30.6
+abr: 19.2
+mai: 3.4
+jun: 8.2
+jul: 2
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0.2
+total: 88.2
+
+
+Município/Posto: Uiraúna PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 40
+nov: -
+dez: -
+total: 40
+
+
+Município/Posto: Belém do Brejo do Cruz PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 0
+nov: 150
+dez: 10
+total: 160
+
+
+Município/Posto: Belém do Brejo do CruzPCD
+ano: 2024
+jan: 36.4
+fev: 40.6
+mar: 29.2
+abr: 20
+mai: 10.2
+jun: 16.2
+jul: 0
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 152.6
+
+
+Município/Posto: Brejo do Cruz PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 131
+nov: -
+dez: -
+total: 131
+
+
+Município/Posto: Brejo dos Santos PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 100
+nov: -
+dez: -
+total: 100
+
+
+Município/Posto: Catolé do Rocha PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 55
+nov: 999.9
+dez: 200
+total: 1254.9
+
+
+Município/Posto: Catolé do RochaPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 0
+jun: 27.6
+jul: 2.4
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0.2
+total: 30.2
+
+
+Município/Posto: Catolé do Rocha/Escola Técnica  PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 45
+nov: 5
+dez: -
+total: 50
+
+
+Município/Posto: Jericó PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 75
+total: 75
+
+
+Município/Posto: Lagoa PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 71
+nov: -
+dez: -
+total: 71
+
+
+Município/Posto: Riacho dos Cavalos/EMEPA PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 45
+nov: -
+dez: -
+total: 45
+
+
+Município/Posto: São Bento PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 50
+total: 50
+
+
+Município/Posto: São BentoPCD
+ano: 2024
+jan: -
+fev: -
+mar: 39
+abr: 36
+mai: 12.6
+jun: 1
+jul: 0.4
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0.2
+total: 89.2
+
+
+Município/Posto: Boa Ventura PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 199
+dez: -
+total: 199
+
+
+Município/Posto: Conceição PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 85
+nov: -
+dez: -
+total: 85
+
+
+Município/Posto: ConceiçãoPCD
+ano: 2024
+jan: 0
+fev: 0
+mar: 7
+abr: 58
+mai: 9.6
+jun: 11.2
+jul: 5.8
+ago: 0
+set: 0
+out: 0.4
+nov: 4.2
+dez: 2.2
+total: 98.4
+
+
+Município/Posto: Ibiara PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 85
+dez: -
+total: 85
+
+
+Município/Posto: Itaporanga/Faz VeludoPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 2.4
+jul: 3.2
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 5.6
+
+
+Município/Posto: Itaporanga/Fazenda Veludo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 0.5
+total: 0.5
+
+
+Município/Posto: Itaporanga PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 1
+total: 1
+
+
+Município/Posto: Itaporanga/Malhada GrandePCD
+ano: 2024
+jan: 41.8
+fev: 49.4
+mar: 28.4
+abr: 51.6
+mai: 8
+jun: 5.2
+jul: 1.6
+ago: 0
+set: 0
+out: 0
+nov: 0.2
+dez: 0
+total: 186.2
+
+
+Município/Posto: Pedra Branca PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 0.1
+total: 0.1
+
+
+Município/Posto: Santa InêsPCD
+ano: 2024
+jan: 25.6
+fev: 44
+mar: 40
+abr: 51
+mai: 4.4
+jun: 3
+jul: 4.2
+ago: 0
+set: 0
+out: 2
+nov: 0
+dez: 0
+total: 174.2
+
+
+Município/Posto: Santana de MangueiraPCD
+ano: 2024
+jan: 29.8
+fev: 49.2
+mar: 14.2
+abr: 31.4
+mai: 25.4
+jun: 7.4
+jul: 1.2
+ago: 0
+set: 0
+out: 1.6
+nov: 1.2
+dez: 0
+total: 161.4
+
+
+Município/Posto: Areia de Baraúnas PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 11
+nov: 110
+dez: 45
+total: 166
+
+
+Município/Posto: Cacimba de Areia PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 44.4
+nov: -
+dez: -
+total: 44.4
+
+
+Município/Posto: Patos/Belo HorizontePCD
+ano: 2024
+jan: 19
+fev: 15.4
+mar: 20.4
+abr: 25.4
+mai: 7.4
+jun: 1.2
+jul: 5.8
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 5.8
+total: 100.4
+
+
+Município/Posto: Patos/CONABPCD
+ano: 2024
+jan: 22.2
+fev: 16
+mar: 48.2
+abr: 19.6
+mai: 19.8
+jun: 2.6
+jul: 6
+ago: 0
+set: 0
+out: 0.4
+nov: 0
+dez: 12.6
+total: 147.4
+
+
+Município/Posto: Santa Teresinha PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: 12.4
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 5
+total: 17.4
+
+
+Município/Posto: Santa Teresinha/Santa TerezinhaPCD
+ano: 2024
+jan: -
+fev: -
+mar: 79.6
+abr: 32.8
+mai: 0
+jun: 2.8
+jul: 3.2
+ago: 0
+set: 0
+out: 0
+nov: -
+dez: -
+total: 118.4
+
+
+Município/Posto: São José de Espinharas/São josé de EspinharasPCD
+ano: 2024
+jan: 39.8
+fev: 15.4
+mar: 56.4
+abr: 12
+mai: 29.8
+jun: 3.8
+jul: 2.8
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 16.4
+total: 176.4
+
+
+Município/Posto: AguiarPCD
+ano: 2024
+jan: 18.6
+fev: 31.4
+mar: 58
+abr: 50
+mai: 16.4
+jun: 5.2
+jul: 6.8
+ago: 0
+set: 0
+out: 2
+nov: 0
+dez: 0
+total: 188.4
+
+
+Município/Posto: Aguiar PCO
+ano: 2024
+jan: 3
+fev: 1043
+mar: 1073.8
+abr: 99.8
+mai: 134
+jun: 999.9
+jul: 51
+ago: -
+set: 1116.2
+out: 102.5
+nov: 290.5
+dez: 494
+total: 5407.7
+
+
+Município/Posto: Catingueira PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 35
+nov: -
+dez: -
+total: 35
+
+
+Município/Posto: Emas PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 110
+total: 110
+
+
+Município/Posto: EmasPCD
+ano: 2024
+jan: -
+fev: -
+mar: 76.8
+abr: 63.6
+mai: 27.6
+jun: 6.8
+jul: 12
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 0
+total: 186.8
+
+
+Município/Posto: Olho D`Água PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 61
+total: 61
+
+
+Município/Posto: PiancóPCD
+ano: 2024
+jan: 10.4
+fev: 28.8
+mar: 30.2
+abr: 25
+mai: 4.8
+jun: 7.4
+jul: 1.6
+ago: 0
+set: 0
+out: 0.4
+nov: 0
+dez: 0
+total: 108.6
+
+
+Município/Posto: Santana dos GarrotesPCD
+ano: 2024
+jan: 20
+fev: 49
+mar: 48.6
+abr: 49.8
+mai: 11.4
+jun: 3.2
+jul: 1
+ago: 0
+set: 0.4
+out: 0.4
+nov: 3.2
+dez: 0.2
+total: 187.2
+
+
+Município/Posto: Água Branca PCO
+ano: 2024
+jan: 0
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 0
+
+
+Município/Posto: Água BrancaPCD
+ano: 2024
+jan: -
+fev: -
+mar: 10.8
+abr: 15.6
+mai: 6.8
+jun: 15.2
+jul: 9.8
+ago: 1
+set: 0
+out: 1.6
+nov: 4.2
+dez: 0
+total: 65
+
+
+Município/Posto: Água Branca/testenew PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 16
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: -
+total: 16
+
+
+Município/Posto: Cacimbas PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 66.6
+nov: 160
+dez: -
+total: 226.6
+
+
+Município/Posto: Princesa Isabel PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 5
+dez: -
+total: 5
+
+
+Município/Posto: Princesa IsabelPCD
+ano: 2024
+jan: 2
+fev: 38.6
+mar: 28.6
+abr: 38.4
+mai: 5.6
+jun: 10.8
+jul: 2
+ago: 0.6
+set: 0
+out: 7.6
+nov: 2.2
+dez: 0
+total: 136.4
+
+
+Município/Posto: Teixeira PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 4
+nov: -
+dez: -
+total: 4
+
+
+Município/Posto: TeixeiraPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: 4
+jul: 5.6
+ago: 1.2
+set: 0
+out: 2
+nov: 5.8
+dez: 0.2
+total: 18.8
+
+
+Município/Posto: Aparecida PCO
+ano: 2024
+jan: -
+fev: -
+mar: 1.2
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 88.6
+nov: 15.1
+dez: 29
+total: 133.9
+
+
+Município/Posto: Cajazeirinhas PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 9
+nov: -
+dez: -
+total: 9
+
+
+Município/Posto: Condado PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 95
+nov: 70
+dez: -
+total: 165
+
+
+Município/Posto: CondadoPCD
+ano: 2024
+jan: 31.6
+fev: 40.8
+mar: 59.6
+abr: 39.6
+mai: 12.6
+jun: 2.6
+jul: 1.8
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 9.6
+total: 198.2
+
+
+Município/Posto: Lastro PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 31
+nov: -
+dez: -
+total: 31
+
+
+Município/Posto: Malta PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: 201
+dez: -
+total: 201
+
+
+Município/Posto: Nazarezinho PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 8
+nov: -
+dez: -
+total: 8
+
+
+Município/Posto: PaulistaPCD
+ano: 2024
+jan: 20.8
+fev: 17
+mar: 82.8
+abr: 24.8
+mai: 0
+jun: 0.6
+jul: 0
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 3.6
+total: 149.6
+
+
+Município/Posto: PombalPCD
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: 3.2
+jun: 4
+jul: 1.6
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 2.2
+total: 11
+
+
+Município/Posto: PombalPCD
+ano: 2024
+jan: 8.6
+fev: 29
+mar: 55.8
+abr: 25.2
+mai: 31
+jun: 2.6
+jul: 5
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 3.8
+total: 161
+
+
+Município/Posto: Santa Cruz PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 999.9
+nov: -
+dez: -
+total: 999.9
+
+
+Município/Posto: Santa CruzPCD
+ano: 2024
+jan: 25.2
+fev: 14.8
+mar: 40.4
+abr: 13.2
+mai: 15.8
+jun: 1
+jul: 0
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 2.2
+total: 112.6
+
+
+Município/Posto: São Bentinho PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 25
+total: 25
+
+
+Município/Posto: São Domingos PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 999.9
+nov: -
+dez: 75
+total: 1074.9
+
+
+Município/Posto: São Francisco PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 17
+nov: -
+dez: 150
+total: 167
+
+
+Município/Posto: Sousa/São Gonçalo PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 53
+total: 53
+
+
+Município/Posto: Sousa/São GonçaloPCD
+ano: 2024
+jan: 19.4
+fev: 35.2
+mar: 25.4
+abr: 30.2
+mai: 6
+jun: 4.4
+jul: 1.2
+ago: 0
+set: 0
+out: 0
+nov: 0
+dez: 2.6
+total: 124.4
+
+
+Município/Posto: SousaPCD
+ano: 2024
+jan: 15.4
+fev: 69.2
+mar: 21.2
+abr: 16.8
+mai: 7.6
+jun: 5.4
+jul: 2.8
+ago: 0
+set: 0
+out: 9.2
+nov: 0
+dez: 0.4
+total: 148
+
+
+Município/Posto: Sousa PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: -
+nov: -
+dez: 52
+total: 52
+
+
+Município/Posto: Vieirópolis PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 5
+nov: -
+dez: -
+total: 5
+
+
+Município/Posto: Vista Serrana/Desterro de Malta PCO
+ano: 2024
+jan: -
+fev: -
+mar: -
+abr: -
+mai: -
+jun: -
+jul: -
+ago: -
+set: -
+out: 70
+nov: -
+dez: 55
+total: 125
+
+
